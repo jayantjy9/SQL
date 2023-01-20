@@ -1,5 +1,5 @@
 #########################################################################################
--- we are starting with creating a database name 'Project_India_Census' for this project.
+-- starting with creating a database name 'Project_India_Census' for this project.
 -- importing the two datasets for this project data1 and data2
 ########################################################################################
 
