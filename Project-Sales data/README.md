@@ -1,37 +1,43 @@
 
-# Income/Expense Tracker
+# Sample Sales Data
 
-This is a simple Excel file that helps you track your Income/Expenses where you will be updating your daybook and it will record the data and provide you an interactive Dashboard which you can use as per your convenience.
+In this project I have used a sample sales data and performed sql queries on it to extract some meaningful information. 
 
 ## Tech Stack
 
-Used Microsoft Excel, some advanced excel functions and also include Macros.
+Used MYSQL Workbench for performing the SQL Queries.
 
 
-## Step by Step Working
-
-The file consist of 4 Pages as mentioned Below:
-
-1. While opening the file the first page is the "Home Tab": 
-* In the Description field in (H Column) you can add the Description for all your income/Expense(i.e. Salary,rent,etc) only once and this will be reflected as a list while we start making the entry of our records.  
-* B and C columns provides you a formate in which you can make entry of your data with the interactive buttons you can mark your entry either Income/Expense.
-* Once you enter the details (Date, Description, Amount) and click on any of the Buttons Income/Expense your entry will be saved automatically.
+## Outputs
 
 
-2. The Saved entry is visible in the "Data Tab".
-* This saved data will be shown in three different Categories: Expense, Income and Savings.
 
-3. The same data also visible in the "Pivot Table Tab" in form of pivot tables.
+    1. Which month had the highest sales?
 
-4. All the entries which you made will be visible in the form of interactive charts in the "Dashboard Tab".
-* This is your personalized Dashboard all the entries which you made previously will have visiual representation in this Tab.
-* You can apply filter's as well like if you want to check entries for any specific month you can check that with the help of Date filter.
-* You can apply filters based on Description, if you want to check expenses in any of the description entry you can do that also.
-* There are 2 different views in Expenses Category: "Category-view" and "Monthly-view". You can toggle between them
-<img width="411" alt="image" src="https://user-images.githubusercontent.com/118092998/235344604-8d218e06-35d8-46d4-a3a6-9fdd402f6c5f.png">
+    2. Which city sold the most products?
 
-## Authors
+    3. What products are most often sold together?
+
+    4. What is the most popular shipping method?
+
+    5. What is the average order value?
+
+    6. Minimum and Maximum Sale for each Month?
+
+    7. What are the top 5 best-selling products?
+
+    8. What time should we display advertisements to maximize customer engagement?
+
+    9. Sales based on Deal size
+
+    10. find Sales by Year which involves per year increment or decrement percentage
+
+    11. find top 3 cities in each Country With highest sales
+
+    
+
+
+## Author
 
 - [@jayant_yadav](https://www.github.com/jayantjy9)
-
 
