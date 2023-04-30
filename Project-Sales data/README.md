@@ -28,6 +28,7 @@ The file consist of 4 Pages as mentioned Below:
 * You can apply filter's as well like if you want to check entries for any specific month you can check that with the help of Date filter.
 * You can apply filters based on Description, if you want to check expenses in any of the description entry you can do that also.
 * There are 2 different views in Expenses Category: "Category-view" and "Monthly-view". You can toggle between them
+<img width="411" alt="image" src="https://user-images.githubusercontent.com/118092998/235344604-8d218e06-35d8-46d4-a3a6-9fdd402f6c5f.png">
 
 ## Authors
 
